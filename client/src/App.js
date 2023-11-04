@@ -1,4 +1,4 @@
-React, { useEffect } from "react";
+, { useEffect } from "react";
 import { Container, AppBar, Typography, Grow, Grid } from '@material-ui/core'
 import { useDispatch } from "react-redux";
 
